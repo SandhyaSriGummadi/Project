@@ -89,6 +89,7 @@ Transmission intervals are configurable to optimize power usage
   "alert_state": "Active"
 }
 
+
 ## System Reliability Considerations
 
 Watchdog timers for MCU stability
