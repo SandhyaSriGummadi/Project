@@ -81,7 +81,7 @@ Data is transmitted to the cloud using Wi-Fi (MQTT / HTTP)
 
 Transmission intervals are configurable to optimize power usage
 
-Sample Data Payload
+## Sample Data Payload
 {
   "controller_id": "MCU_NODE_03",
   "temperature": 29,
