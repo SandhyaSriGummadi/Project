@@ -83,13 +83,14 @@ Transmission intervals are configurable to optimize power usage
 
 ## Sample Data Payload
 
+```json
 {
   "controller_id": "MCU_NODE_03",
   "temperature": 29,
   "soil_moisture": 26,
   "alert_state": "Active"
 }
-
+```
 
 ## System Reliability Considerations
 
